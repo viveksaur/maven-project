@@ -9,7 +9,7 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
-  System.out.println("JENKINS webhook");
+  System.out.println("JENKINS webhook demo");
   }
 
   //TODO: Add javadoc comment
